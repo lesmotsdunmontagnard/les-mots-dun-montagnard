@@ -22,7 +22,7 @@
     "id": "viree-poetique-vers-milan",
     "titre": "Virée poétique vers Milan",
     "fichier": "textes/viree-poetique-vers-milan.txt",
-    "date": "",
+    "date": "2026-05-09",
     "publie": true,
     "images": [
       {
@@ -52,6 +52,8 @@
       }
     ],
     "sousTitre": "Mention honorable pour « Les exils de la terre »",
-    "introduction": "Le 9 mai 2026, à Milan, j’ai reçu une mention honorable pour mon poème « Les exils de la terre », dans la section « Environnement et migrations » du Prix international de poésie « Sur les traces de Léopold Sédar Senghor ». Je partage ici quelques images de cette virée poétique, mon diplôme d’honneur et le procès-verbal du jury."
+    "introduction": "Le 9 mai 2026, à Milan, j’ai reçu une mention honorable pour mon poème « Les exils de la terre », dans la section « Environnement et migrations » du Prix international de poésie « Sur les traces de Léopold Sédar Senghor ». Je partage ici quelques images de cette virée poétique, mon diplôme d’honneur et le procès-verbal du jury.",
+    "resume": "Le 9 mai 2026, à Milan, Djamel Metref a participé au Prix international de poésie « Sur les traces de Léopold Sédar Senghor » avec son poème « Les exils de la terre ». Présenté dans la section « Environnement et migrations », le poème a reçu une mention honorable. Un diplôme d’honneur lui a été remis lors de la cérémonie.",
+    "documentComplet": true
   }
 ]

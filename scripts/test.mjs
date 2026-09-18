@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import {build,poemText,loadEntries} from './build.mjs';
+import {build,poemText,loadEntries,escape as escapeHtml,root} from './build.mjs';
 
 const original='\n\n  Éléments : "droits" \' -- ... & < >\r\n\r\nFIN\n';
 const decoded=poemText(original).slice(6,-7).replace(/&#13;/g,'\r').replace(/&#10;/g,'\n').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&amp;/g,'&');
@@ -27,6 +27,12 @@ for(const demo of [false,true]){
    assert.ok(html.includes(poemText(e.texte)),'Le poème généré doit contenir son texte complet.');
   }
   assert.ok(!fs.readFileSync(path.join(output,'index.html'),'utf8').includes('Aperçu local'));
+  const newsIndex=fs.readFileSync(path.join(output,'actualites.html'),'utf8');
+  const milan=fs.readFileSync(path.join(output,'actualites/viree-poetique-vers-milan.html'),'utf8');
+  assert.ok(newsIndex.indexOf('Virée poétique vers Milan')<newsIndex.indexOf('HARRAGA, deuxième prix à Milan'),'Les actualités doivent être classées par date décroissante.');
+  assert.ok(milan.includes('<time datetime="2026-05-09">9 mai 2026</time>'),'La date de Milan doit être visible et exploitable par les machines.');
+  assert.ok(milan.includes('<details class="news-archive">')&&milan.includes('Consulter le procès-verbal complet'),'Le procès-verbal complet doit être replié par défaut.');
+  assert.ok(milan.includes(escapeHtml(fs.readFileSync(path.join(root,'content/textes/viree-poetique-vers-milan.txt'),'utf8'))),'Le procès-verbal original doit rester intégralement accessible.');
  }
 }
 console.log('Vérifié : fidélité du texte, pages statiques, liens relatifs, séparation aperçu/publication et pagination de démonstration.');

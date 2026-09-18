@@ -215,6 +215,8 @@ h1,h2,h3{font-weight:400;line-height:1.15;letter-spacing:-.025em;color:var(--wp-
 
 .news-sources{margin-block:32px;padding-block:24px;border-top:1px solid #d8d8c7}.news-sources h2{font-size:26px}.news-sources li{margin-block:12px}.news-sources a{overflow-wrap:anywhere}
 
+.news-summary{font-size:18px;line-height:1.85;margin:0 0 28px}.news-archive{border-block:1px solid #d8d8c7;padding-block:18px;margin-block:28px}.news-archive summary{color:#193f32;cursor:pointer;font-family:Georgia,'Times New Roman',serif;font-size:17px}.news-archive summary:focus-visible{outline:2px solid #193f32;outline-offset:5px}.news-archive-text{margin-top:24px;padding-top:24px;border-top:1px solid #d8d8c7;font-size:15px;line-height:1.75}
+
 .lmdm-about{max-width:700px;margin-inline:auto}.lmdm-about p{margin-block:0 1.5em;line-height:1.9}.lmdm-about h2{margin-block:36px 24px;font-size:clamp(27px,4vw,36px)}.lmdm-about hr{border:0;border-top:1px solid #d8d8c7;margin-block:56px}
 
 .lmdm-about-portrait { float: left; width: 240px; max-width: 40%; margin: 0 28px 20px 0; }
