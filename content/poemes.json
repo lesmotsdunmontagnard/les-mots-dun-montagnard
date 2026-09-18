@@ -1,0 +1,481 @@
+[
+  {
+    "id": "3-17",
+    "titre": "3 : 17",
+    "fichier": "textes/3-17.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/3-17.jpg",
+    "descriptionImage": "Un lampadaire éclaire des arbres et des toits dans la nuit.",
+    "date": "2026-08-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "4-septembre-2",
+    "titre": "4 septembre",
+    "fichier": "textes/4-septembre-2.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/4-septembre-2.jpg",
+    "descriptionImage": "Un homme assis sur une colline brûlée, près d’une pelle et d’une bouteille d’eau.",
+    "date": "",
+    "publie": true,
+    "auteur": "",
+    "lieu": "",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "4-septembre",
+    "titre": "4 septembre ",
+    "fichier": "textes/4-septembre.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/4-septembre.jpg",
+    "descriptionImage": "Une route serpente entre les arbres brûlés et les maisons d’une colline.",
+    "date": "",
+    "publie": true,
+    "auteur": "",
+    "lieu": "",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "apres-l-orage",
+    "titre": "Après l’orage ",
+    "fichier": "textes/apres-l-orage.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/apres-l-orage.jpg",
+    "descriptionImage": "Une promenade au bord d’un lac, sous un ciel nuageux, face aux montagnes.",
+    "date": "2026-08-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "apres-la-lumiere",
+    "titre": "Après la lumière ",
+    "fichier": "textes/apres-la-lumiere.txt",
+    "themes": [
+      "Amour et désir",
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/apres-la-lumiere.jpg",
+    "descriptionImage": "Un homme assis sur un bateau regarde la rive au coucher du soleil.",
+    "date": "2026-09-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "coeur-sans-frein",
+    "titre": "Cœur sans frein ",
+    "fichier": "textes/coeur-sans-frein.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/coeur-sans-frein.jpg",
+    "descriptionImage": "Une aile d’avion vue à travers un hublot au soleil couchant.",
+    "date": "2026-09-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "en-ligne",
+    "titre": "En ligne",
+    "fichier": "textes/en-ligne.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/en-ligne.jpg",
+    "descriptionImage": "Un visiteur photographie les poissons d’un grand aquarium éclairé de bleu.",
+    "date": "2026-08-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "fatna-sous-la-lune-de-ben-kerriou",
+    "titre": "Fatna, sous la lune de Ben Kerriou",
+    "fichier": "textes/fatna-sous-la-lune-de-ben-kerriou.txt",
+    "themes": [
+      "Amour et désir",
+      "Mémoire et transmission",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/fatna-sous-la-lune-de-ben-kerriou.jpg",
+    "descriptionImage": "Peinture d’une femme voilée de rouge, parée de bijoux, près d’une fenêtre.",
+    "date": "2026-08-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Œuvre © Reche Safia"
+  },
+  {
+    "id": "ivre-amour",
+    "titre": "Ivre amour ",
+    "fichier": "textes/ivre-amour.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/ivre-amour.jpg",
+    "descriptionImage": "Les silhouettes floues des arbres devant un ciel rose et violet au crépuscule.",
+    "date": "2026-08-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "je-crie-ton-nom",
+    "titre": "Je crie ton nom",
+    "fichier": "textes/je-crie-ton-nom.txt",
+    "themes": [
+      "Amour et désir",
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/je-crie-ton-nom.jpg",
+    "descriptionImage": "Les lumières d’un village et une lune brillante dans la nuit.",
+    "date": "2026-09-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "l-eclat-des-choses-simples",
+    "titre": "L’éclat des choses simples",
+    "fichier": "textes/l-eclat-des-choses-simples.txt",
+    "themes": [
+      "Beauté du quotidien",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/l-eclat-des-choses-simples.jpg",
+    "descriptionImage": "La lune partiellement éclairée dans un ciel noir.",
+    "date": "2026-08-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "la-grammaire-de-ton-absence",
+    "titre": "La grammaire de ton absence",
+    "fichier": "textes/la-grammaire-de-ton-absence.txt",
+    "themes": [
+      "Absence et manque",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/la-grammaire-de-ton-absence.jpg",
+    "descriptionImage": "Les ombres d’une fenêtre, d’un ventilateur et d’une chaise sur un mur.",
+    "date": "2026-09-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "la-terre-sous-nos-pas",
+    "titre": "La terre sous nos pas",
+    "fichier": "textes/la-terre-sous-nos-pas.txt",
+    "themes": [
+      "Nature et écologie",
+      "Exil et solidarité",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/la-terre-sous-nos-pas.jpg",
+    "descriptionImage": "Des arbres au premier plan devant une chaîne de montagnes ensoleillée.",
+    "date": "2026-08-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-bonheur-d-etre-aime",
+    "titre": "Le bonheur d’être aimé",
+    "fichier": "textes/le-bonheur-d-etre-aime.txt",
+    "themes": [
+      "Amour et désir",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/le-bonheur-d-etre-aime.jpg",
+    "descriptionImage": "Un homme portant une casquette et une écharpe jaune au bord d’un lac.",
+    "date": "2026-08-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-chemin-vers-l-aube",
+    "titre": "Le chemin vers l'aube",
+    "fichier": "textes/le-chemin-vers-l-aube.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/le-chemin-vers-l-aube.jpg",
+    "descriptionImage": "Le soleil au-dessus des collines et d’un chemin dans un paysage montagneux.",
+    "date": "2026-08-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "les-jours-trop-lourds",
+    "titre": "Les jours trop lourds",
+    "fichier": "textes/les-jours-trop-lourds.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/les-jours-trop-lourds.jpg",
+    "descriptionImage": "Un ciel rose au-dessus des collines, vu depuis une fenêtre dans une pièce sombre.",
+    "date": "2026-08-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "nous-nous-souvenons",
+    "titre": "Nous nous souvenons",
+    "fichier": "textes/nous-nous-souvenons.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/nous-nous-souvenons.jpg",
+    "descriptionImage": "Affiche d’hommage au congrès de la Soummam du 20 août 1956, avec photographies du site et de ses participants.",
+    "date": "2026-08-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "renaissance",
+    "titre": "Renaissance ",
+    "fichier": "textes/renaissance.txt",
+    "themes": [
+      "Amour et désir",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/renaissance.jpg",
+    "descriptionImage": "Un chemin descend entre la végétation et les clôtures vers la mer bleue.",
+    "date": "2026-09-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "tout-ce-que-tu-as-commence",
+    "titre": "Tout ce que tu as commencé ",
+    "fichier": "textes/tout-ce-que-tu-as-commence.txt",
+    "themes": [
+      "Amour et désir",
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/tout-ce-que-tu-as-commence.jpg",
+    "descriptionImage": "Des arbustes aux fleurs roses bordent une rivière.",
+    "date": "2026-09-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "au-bord-de-l-indicible",
+    "titre": "Au bord de l’indicible",
+    "fichier": "textes/au-bord-de-l-indicible.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/au-bord-de-l-indicible.jpg",
+    "descriptionImage": "Nuages roses au-dessus des montagnes et des toits au coucher du soleil.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-06",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "discours-logorrheique",
+    "titre": "Discours logorrhéique",
+    "fichier": "textes/discours-logorrheique.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Mémoire et transmission",
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/discours-logorrheique.jpg",
+    "descriptionImage": "Un arbre devant une terrasse ouverte sur la mer sous un ciel couvert.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-11",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "fadhma-memoire-de-lumiere",
+    "titre": "Fadhma, mémoire de lumière",
+    "fichier": "textes/fadhma-memoire-de-lumiere.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Exil et solidarité"
+    ],
+    "image": "assets/poemes/fadhma-memoire-de-lumiere.jpg",
+    "descriptionImage": "Portrait peint d’une femme âgée portant un foulard clair, signé Karim Ziane.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-13",
+    "publie": true,
+    "creditImage": "Œuvre © Karim Ziane"
+  },
+  {
+    "id": "l-aurore-du-crepuscule",
+    "titre": "L’aurore du crépuscule",
+    "fichier": "textes/l-aurore-du-crepuscule.txt",
+    "themes": [
+      "Résilience et espoir",
+      "Beauté du quotidien"
+    ],
+    "image": "assets/poemes/l-aurore-du-crepuscule.jpg",
+    "descriptionImage": "Un ciel rose et doré au-dessus des collines, encadré par deux bâtiments sombres.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-12",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "la-nuit-sur-les-montagnes",
+    "titre": "La nuit sur les montagnes",
+    "fichier": "textes/la-nuit-sur-les-montagnes.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Absence et manque",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/la-nuit-sur-les-montagnes.jpg",
+    "descriptionImage": "Un lampadaire éclaire les arbres et les toits dans la nuit.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-11",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-chant-des-cigales",
+    "titre": "Le chant des cigales",
+    "fichier": "textes/le-chant-des-cigales.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Beauté du quotidien"
+    ],
+    "image": "assets/poemes/le-chant-des-cigales.jpg",
+    "descriptionImage": "Un métier à tisser en bois porte un ouvrage aux motifs rouges, noirs et verts.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-01",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-poete-et-sa-muse-s-amusent",
+    "titre": "Le poète et sa muse s’amusent",
+    "fichier": "textes/le-poete-et-sa-muse-s-amusent.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/le-poete-et-sa-muse-s-amusent.jpg",
+    "descriptionImage": "Un homme et deux ombres sur un chemin ensoleillé au bord de la mer.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-15",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-tribunal-de-la-nuit",
+    "titre": "Le tribunal de la nuit",
+    "fichier": "textes/le-tribunal-de-la-nuit.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/le-tribunal-de-la-nuit.jpg",
+    "descriptionImage": "Les ombres d’une fenêtre et d’objets se dessinent sur un mur violet.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-05",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "l-encre-contre-la-nuit",
+    "titre": "L'encre contre la nuit",
+    "fichier": "textes/l-encre-contre-la-nuit.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Résilience et espoir",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/l-encre-contre-la-nuit.jpg",
+    "descriptionImage": "Un bateau illuminé et des bâtiments se reflètent dans l’eau à la nuit tombée.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-02",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "quand-le-hasard-ressemble-au-destin",
+    "titre": "Quand le hasard ressemble au destin",
+    "fichier": "textes/quand-le-hasard-ressemble-au-destin.txt",
+    "themes": [
+      "Amour et désir",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/quand-le-hasard-ressemble-au-destin.jpg",
+    "descriptionImage": "Des voyageurs regardent un paysage enneigé depuis un autocar.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-10",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "renaitre-pour-t-aimer",
+    "titre": "Renaître pour t’aimer ",
+    "fichier": "textes/renaitre-pour-t-aimer.txt",
+    "themes": [
+      "Amour et désir",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/renaitre-pour-t-aimer.jpg",
+    "descriptionImage": "Un homme portant une écharpe jaune se tient parmi les dunes de sable.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-14",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  }
+]
