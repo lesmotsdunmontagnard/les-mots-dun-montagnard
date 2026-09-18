@@ -27,6 +27,7 @@ for(const demo of [false,true]){
    assert.ok(html.includes(poemText(e.texte)),'Le poème généré doit contenir son texte complet.');
   }
   assert.ok(!fs.readFileSync(path.join(output,'index.html'),'utf8').includes('Aperçu local'));
+  assert.ok(fs.readFileSync(path.join(output,'index.html'),'utf8').includes('aria-label="Revenir en haut"'),'Le bouton de retour en haut doit être présent sur le site.');
   const newsIndex=fs.readFileSync(path.join(output,'actualites.html'),'utf8');
   const milan=fs.readFileSync(path.join(output,'actualites/viree-poetique-vers-milan.html'),'utf8');
   assert.ok(newsIndex.indexOf('Virée poétique vers Milan')<newsIndex.indexOf('HARRAGA, deuxième prix à Milan'),'Les actualités doivent être classées par date décroissante.');

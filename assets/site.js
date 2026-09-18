@@ -3,6 +3,13 @@ import {metadata,selectPoems} from './catalogue.js';
   const menu=document.querySelector('.preview-menu'), nav=document.querySelector('#navigation');
   document.documentElement.classList.add('js');
   if(menu&&nav){menu.hidden=false;menu.addEventListener('click',()=>{const opened=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(opened));nav.classList.toggle('open',opened);});document.addEventListener('keydown',event=>{if(event.key==='Escape'&&menu.getAttribute('aria-expanded')==='true'){menu.setAttribute('aria-expanded','false');nav.classList.remove('open');menu.focus();}});}
+  const backToTop=document.querySelector('.back-to-top');
+  if(backToTop){
+    const updateBackToTop=()=>{backToTop.hidden=window.scrollY<480;};
+    updateBackToTop();
+    window.addEventListener('scroll',updateBackToTop,{passive:true});
+    backToTop.addEventListener('click',()=>window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}));
+  }
   const data=document.querySelector('#poems-index');
   if(!data)return;
   const entries=JSON.parse(data.textContent), params=new URLSearchParams(location.search);
